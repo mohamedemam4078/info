@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedemam4078&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedemam4078" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedemam4078" alt="mohamedemam4078" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedemam4078&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
-- 👨‍💻 All of my projects are available at [https://mohamedemam4078.github.io/mohamedemam/#certifications](https://mohamedemam4078.github.io/mohamedemam/#certifications)
+- 👨‍💻 All of my projects are available at [https://mohamedemam4078.github.io/portfolio/](https://mohamedemam4078.github.io/portfolio/)
 
 - 💬 Ask me about **Html, Css, Js, PHP, Sql, Python, VB.Net, Dart & Flutter**
 
